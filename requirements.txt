@@ -1,5 +1,0 @@
-Flask
-gunicorn
-mysql-connector-python
-openpyxl
-mysql-connector-python==9.2.0
